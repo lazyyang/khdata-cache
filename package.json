@@ -1,55 +1,26 @@
 {
-  "_args": [
-    [
-      "khdata-cache@1.0.4",
-      "/Users/fangzhenming/apexsoft/pad/BZB/bzbiPadClient"
-    ]
-  ],
-  "_from": "khdata-cache@1.0.4",
-  "_id": "khdata-cache@1.0.4",
-  "_inBundle": false,
-  "_integrity": "sha512-mvPRxaKXWz5H6Ie4+qGrUQ/qf5pd4gWmwaqebbTg7cpI74fWgLjpXVLcRgGtq6IoaBm6I8IcUpgeH6dvrAArRQ==",
-  "_location": "/khdata-cache",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "khdata-cache@1.0.4",
-    "name": "khdata-cache",
-    "escapedName": "khdata-cache",
-    "rawSpec": "1.0.4",
-    "saveSpec": null,
-    "fetchSpec": "1.0.4"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "http://oss.apexsoft.com.cn/repository/react-native-group/khdata-cache/-/khdata-cache-1.0.3.tgz",
-  "_spec": "1.0.4",
-  "_where": "/Users/fangzhenming/apexsoft/pad/BZB/bzbiPadClient",
-  "author": {
-    "name": "xuxinhua"
-  },
-  "contributors": [
-    {
-      "name": "chenxiaosen",
-      "email": "chenxiaosen@apexsoft.com.cn"
-    }
-  ],
-  "description": "影像利旧缓存",
-  "keywords": [
-    "react-native",
-    "apex",
-    "khdata-cache"
-  ],
-  "license": "MIT",
-  "main": "index.js",
   "name": "@lazyyang/khdata-cache",
-  "publishConfig": {
-    "registry": "https://github.com/lazyyang/khdata-cache.git"
-  },
+  "version": "1.0.4",
+  "description": "影像利旧缓存",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazyyang/khdata-cache.git"
+  },
+  "keywords": [
+    "khdata",
+    "cache",
+    "影像",
+    "缓存"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazyyang/khdata-cache/issues"
+  },
+  "homepage": "https://github.com/lazyyang/khdata-cache#readme",
+  "dependencies": {}
 }
